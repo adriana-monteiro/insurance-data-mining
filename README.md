@@ -2,5 +2,5 @@
 
 
 Group Members:
-- Adriana
+- Adriana Monteiro
 - Pedro Ferreira
