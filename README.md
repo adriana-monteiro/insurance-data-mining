@@ -3,6 +3,7 @@
 This project, developed as a part of the Data Mining course of the Master's in Data Science and Advanced Analytics, aims to segment customers of a (fictional) insurance company using unsupervised learning techniques. the goal was to devise new general marketing approaches tailored to each cluster of clients.
 
 
+
 ## Key Project Components:
 1. Data Exploration:
    * Graphic and numerical feature exploration;
@@ -19,6 +20,8 @@ This project, developed as a part of the Data Mining course of the Master's in D
    * Self-Organizing Maps (SOM);
    * DBSCAN.
 4. Possible business strategies based on the results on cluster analysis.
+
+
 
 ### Group Members:
 - Adriana Monteiro
