@@ -1,6 +1,28 @@
 # Segmentation of Customers for A2Z Insurance - A Data Mining project
 
+This project, developed as a part of the Data Mining course of the Master's in Data Science and Advanced Analytics, aims to segment customers of a (fictional) insurance company using unsupervised learning techniques. the goal was to devise new general marketing approaches tailored to each cluster of clients.
 
-Group Members:
+
+## Key Project Components:
+1. Data Exploration:
+   * Graphic and numerical feature exploration;
+   * Exploring incoherences within the data, missing values and outliers;
+2. Data preparation and data preprocessing
+   * Encoding categorical variables;
+   * Imputing missing data;
+   * Resolving previously identified issues;
+   * Feature engineering and selection.
+3. Customer Segmentation via different clustering models and perspectives:
+   * K-Means;
+   * K-Prototypes;
+   * Hierarchical Clustering;
+   * Self-Organizing Maps (SOM);
+   * DBSCAN.
+4. Possible business strategies based on the results on cluster analysis.
+
+### Group Members:
 - Adriana Monteiro
 - Pedro Ferreira
+
+
+
