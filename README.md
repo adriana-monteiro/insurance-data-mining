@@ -6,8 +6,8 @@ This project, developed as a part of the Data Mining course of the Master's in D
 
 ## Key Project Components:
 1. Data Exploration:
-   * Graphic and numerical feature exploration;
-   * Exploring incoherences within the data, missing values and outliers;
+   * Analysing each feature and relationships between features (graphics, correlations, ...);
+   * Indetifying incoherences within the data, missing values and outliers;
 2. Data preparation and data preprocessing
    * Encoding categorical variables;
    * Imputing missing data;
