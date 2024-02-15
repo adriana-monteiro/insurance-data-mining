@@ -1,6 +1,6 @@
 # Segmentation of Customers for A2Z Insurance - A Data Mining project
 
-This project, developed as a part of the Data Mining course of the Master's in Data Science and Advanced Analytics, aims to segment customers of a (fictional) insurance company using unsupervised learning techniques. the goal was to devise new general marketing approaches tailored to each cluster of clients.
+This project, developed as a part of the Data Mining course of the Master's in Data Science and Advanced Analytics at NOVA IMS, aims to segment customers of a (fictional) insurance company using unsupervised learning techniques. the goal was to devise new general marketing approaches tailored to each cluster of clients.
 
 
 
